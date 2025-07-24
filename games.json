@@ -2,11 +2,11 @@
   {
     "name": "SFOTH",
     "uri": "novetus://launchgame?id=12345",
-    "icon": "https://yourserver.com/icons/obby.png"
+    "icon": "https://raw.githubusercontent.com/MudCookies1/novetusLauncherGames/main/icons/SFOTH.png"
   },
   {
     "name": "Keith's Server",
     "uri": "novetus://launchgame?id=54321",
-    "icon": "https://yourserver.com/icons/brickbattle.png"
+    "icon": "https://raw.githubusercontent.com/MudCookies1/novetusLauncherGames/main/icons/KeithServer.png"
   }
 ]
