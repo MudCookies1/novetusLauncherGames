@@ -1,0 +1,12 @@
+[
+  {
+    "name": "SFOTH",
+    "uri": "novetus://launchgame?id=12345",
+    "icon": "https://yourserver.com/icons/obby.png"
+  },
+  {
+    "name": "Keith's Server",
+    "uri": "novetus://launchgame?id=54321",
+    "icon": "https://yourserver.com/icons/brickbattle.png"
+  }
+]
