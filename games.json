@@ -1,12 +1,12 @@
 [
   {
     "name": "SFOTH",
-    "uri": "novetus://launchgame?id=12345",
+    "uri": "novetus://bEUvNkZGNy84SjEwQTJMbXBXMm9oeFhva2hvTExOYU18RGVqdGFWZnRFbkVWZWNEZWdMQzBMZz09fFp3d0Y1dHRPZDVIWkprUkYvTWxsaVBuMmtOV2JJdXRV",
     "icon": "https://raw.githubusercontent.com/MudCookies1/novetusLauncherGames/main/icons/SFOTH.png"
   },
   {
     "name": "Keith's Server",
-    "uri": "novetus://launchgame?id=54321",
+    "uri": "novetus://bEUvNkZGNy84SjEwQTJMbXBXMm9oeFhva2hvTExOYU18RGVqdGFWZnRFbkVWZWNEZWdMQzBMZz09fFp3d0Y1dHRPZDVIWkprUkYvTWxsaVBuMmtOV2JJdXRV",
     "icon": "https://raw.githubusercontent.com/MudCookies1/novetusLauncherGames/main/icons/KeithServer.png"
   }
 ]
